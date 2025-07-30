@@ -45,5 +45,3 @@ To create a multilingual RAG pipeline that:
 - (Planned) `LangChain`, `FastAPI`, or `Gradio`
 
 ---
-
-## 📂 Structure
